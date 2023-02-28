@@ -1,0 +1,81 @@
+version: 2
+
+models:
+  - name: stg_address
+    columns:
+      - name: address_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_call_rate_period
+    columns:
+      - name: call_rate_period_code
+        tests:
+          - unique
+          - not_null
+  
+  - name: stg_location 
+    columns:
+      - name: location_code
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_mobile_data_activity
+    columns:
+      - name: subscription_id
+        tests:
+          - unique
+          - not_null
+
+
+  - name: stg_network_activity_type
+    columns:
+      - name: network_activity_type_code
+        tests:
+          - unique
+          - not_null
+      - name: active_flag
+        tests:
+          - accepted_values:
+              values: ['true', 'false']
+
+  - name: stg_network_type
+    columns:
+      - name: network_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_rate_plan_product
+    columns:
+      - name: rate_plan_product_id
+        tests:
+          - unique
+          - not_null
+      - name: active_flag
+        tests:
+          - accepted_values:
+              values: ['true', 'false']
+
+  - name: stg_subscriber
+    columns:
+      - name: subscription_id
+        tests:
+          - unique
+          - not_null
+      - name: salutation
+        tests:
+          - accepted_values:
+              values: ['Mr', 'Mrs']
+      - name: gender
+        tests:
+          - accepted_values:
+              values: ['male', 'female']
+
+  
+
+  
+
+  
