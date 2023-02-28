@@ -1,0 +1,8 @@
+network_id,name,type,protocol
+41,Gotalk,Wireless networks,GSM
+43,Optus,Old Interconnect,5G
+42,Telstra,Ethernet,2G
+9997,GT Mobile,Public switched telephone,WIFI
+12,Telesim,Local,3G
+9996,Lebara,Virtual networks,2.5G
+11,Vodafone,Interconnect,4G

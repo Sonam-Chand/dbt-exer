@@ -1,0 +1,8 @@
+call_rate_period_cd,name,type,metering_unit
+10,Rush Hour,Free of charge offer 1,(1-10) seconds
+12,Late Night,Free of charge offer 3,(1-2) hours
+9,All Day 3,Charging period 10 cent,hours
+6,All Day 2,Charging period 5 cent,minutes
+0,All Day 1,Charging period 2 cent,seconds
+7,All Day 4,Charging period 0.5 cent,points
+11,Early Night,Free of charge offer 2,(1-3) minutes

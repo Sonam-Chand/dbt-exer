@@ -1,0 +1,405 @@
+location_cd,country,state,postcode
+374,Svalbard & Jan Mayen Islands,Iowa,53759
+322,South Africa,Iowa,97021
+342,Greenland,Iowa,09754
+16863,Namibia,Iowa,63096
+378,New Zealand,Iowa,18693
+18619,Dominican Republic,Iowa,18367
+17560,Congo,Iowa,86042
+17102,Armenia,Iowa,01634
+326,Bosnia and Herzegovina,Iowa,28070
+335,Georgia,Iowa,17430
+16072,Monaco,Iowa,86867
+43,Paraguay,Iowa,95957
+410,Saint Helena,Iowa,54828
+114,Tonga,Iowa,21503
+18781,French Polynesia,Ohio,13681
+91,Ireland,Ohio,54151
+16266,Saint Martin,Ohio,77389
+4129,Swaziland,Ohio,26533
+17352,Tunisia,Ohio,83852
+16940,Chile,Ohio,08079
+204,Greece,Ohio,92859
+17039,Belize,Ohio,66763
+16544,Yemen,Ohio,81205
+19054,Papua New Guinea,Utah,57656
+355,Botswana,Utah,09208
+17037,Fiji,Utah,67198
+19267,Christmas Island,Utah,40915
+17920,Philippines,Utah,42304
+247,Israel,Utah,99753
+349,Vietnam,Utah,01077
+19144,Bolivia,Utah,40953
+376,Portugal,Utah,66209
+19218,Nauru,Utah,02955
+3765,Bahrain,Idaho,59891
+108,Togo,Idaho,97818
+188,Panama,Idaho,79803
+109,Barbados,Idaho,40204
+3527,Pitcairn Islands,Idaho,83106
+17169,Chile,Idaho,74592
+307,Georgia,Idaho,87804
+16995,Azerbaijan,Idaho,78011
+3737,Taiwan,Idaho,62067
+59,Italy,Idaho,34908
+18680,Haiti,Maine,77465
+1224,Egypt,Maine,37205
+18348,Barbados,Maine,60104
+15657,Micronesia,Maine,47053
+347,Luxembourg,Maine,57234
+3571,Ghana,Maine,70835
+15542,Saint Martin,Texas,22942
+17456,Madagascar,Texas,37169
+76,Trinidad and Tobago,Texas,91570
+16972,Slovenia,Texas,26164
+251,Morocco,Texas,56523
+273,Oman,Texas,51260
+16660,Georgia,Texas,66930
+184,Macedonia,Alaska,97140
+16228,Belgium,Alaska,49115
+4051,Gambia,Alaska,12214
+190,Chad,Alaska,54423
+17921,Nepal,Alaska,69297
+162,Belgium,Hawaii,49791
+16910,Djibouti,Hawaii,13246
+373,Saudi Arabia,Hawaii,69148
+316,Pitcairn Islands,Hawaii,82309
+182,Burundi,Hawaii,85679
+244,South Africa,Hawaii,30234
+196,Austria,Hawaii,88032
+32,French Southern Territories,Hawaii,69368
+1301,Singapore,Kansas,53375
+38,Hong Kong,Kansas,00547
+72,Jordan,Kansas,01678
+384,Cayman Islands,Kansas,64301
+17550,Norway,Kansas,40656
+311,Reunion,Kansas,09381
+22,Northern Mariana Islands,Kansas,49919
+79,Guam,Kansas,97444
+674,Indonesia,Kansas,49675
+366,Rwanda,Kansas,37654
+0,Iraq,Kansas,12112
+47,Cyprus,Nevada,76058
+143,Fiji,Nevada,66111
+16434,Korea,Nevada,47279
+4283,Malta,Nevada,57597
+203,Montenegro,Nevada,13948
+17133,Iran,Oregon,48566
+176,Grenada,Oregon,58882
+183,El Salvador,Oregon,94006
+1096,Turks and Caicos Islands,Oregon,58870
+236,Burkina Faso,Oregon,54845
+348,Nepal,Oregon,63666
+231,Lebanon,Alabama,00793
+17105,Yemen,Alabama,14127
+3584,Cape Verde,Alabama,69636
+4127,Liberia,Alabama,76666
+17196,Pitcairn Islands,Alabama,26176
+4126,United States Minor Outlying Islands,Alabama,86549
+18877,Ecuador,Alabama,33681
+359,Saint Pierre and Miquelon,Alabama,60399
+230,Svalbard & Jan Mayen Islands,Arizona,57071
+404,Vanuatu,Arizona,90247
+16654,Djibouti,Arizona,14143
+19141,Bahrain,Arizona,68698
+16913,Myanmar,Arizona,03709
+243,Kenya,Arizona,83058
+82,Finland,Arizona,46767
+414,Antarctica (the territory South of 60 deg S),Arizona,16236
+277,South Georgia and the South Sandwich Islands,Arizona,32016
+233,Barbados,Arizona,64113
+2489,Mauritius,Arizona,88354
+16934,United Arab Emirates,Florida,13367
+16999,Christmas Island,Florida,65258
+191,Niue,Florida,38450
+144,Egypt,Georgia,80517
+3849,Liberia,Georgia,64039
+1296,Oman,Georgia,12601
+16808,Sierra Leone,Georgia,77286
+19226,Brazil,Georgia,25058
+16788,Congo,Georgia,07997
+3575,Faroe Islands,Georgia,50702
+1095,Belize,Indiana,66226
+101,Norway,Indiana,07629
+235,Central African Republic,Indiana,45371
+246,New Zealand,Indiana,74137
+4198,Uruguay,Montana,52559
+15638,Palestinian Territory,Montana,32371
+16719,Papua New Guinea,Montana,79283
+17028,Peru,Montana,11147
+18929,Cape Verde,Montana,23362
+16302,Cook Islands,Montana,68296
+1086,Wallis and Futuna,Montana,45060
+56,Martinique,Montana,17991
+321,Wallis and Futuna,Vermont,45075
+4052,Dominica,Vermont,66663
+239,Czech Republic,Vermont,42117
+1102,Papua New Guinea,Vermont,98583
+1179,Netherlands Antilles,Vermont,93286
+17140,Comoros,Vermont,96790
+147,Togo,Vermont,57876
+1137,United States of America,Wyoming,47497
+23,Suriname,Wyoming,97924
+3837,Czech Republic,Wyoming,14840
+19231,Tajikistan,Wyoming,49156
+940,Costa Rica,Wyoming,48034
+15651,Congo,Wyoming,64455
+15745,Seychelles,Wyoming,62615
+264,Mongolia,Wyoming,73566
+19270,Sri Lanka,Wyoming,12306
+16245,Bosnia and Herzegovina,Arkansas,15378
+18974,Palau,Arkansas,20655
+3550,Iraq,Arkansas,49199
+1072,Tajikistan,Arkansas,39047
+254,El Salvador,Arkansas,12312
+40,Liechtenstein,Arkansas,81176
+248,Portugal,Colorado,51683
+17125,Yemen,Colorado,79875
+18780,Burundi,Colorado,71517
+60,Egypt,Colorado,47625
+1052,Slovenia,Colorado,47056
+174,Bulgaria,Delaware,78360
+408,Bangladesh,Delaware,42869
+252,Hungary,Delaware,87261
+309,Central African Republic,Delaware,60927
+240,Bhutan,Delaware,53584
+409,Andorra,Delaware,12226
+18779,France,Delaware,68960
+17023,United States Minor Outlying Islands,Delaware,96752
+89,Israel,Delaware,21034
+80,Lao People's Democratic Republic,Delaware,51376
+177,Jamaica,Delaware,86739
+19225,Barbados,Delaware,56258
+115,Slovenia,Illinois,85403
+15813,Comoros,Illinois,78142
+16594,Guam,Kentucky,09486
+16113,Martinique,Kentucky,48268
+111,Honduras,Kentucky,26668
+352,Congo,Kentucky,23703
+16349,Samoa,Kentucky,50092
+126,Honduras,Kentucky,13535
+332,United Arab Emirates,Maryland,20234
+62,Cape Verde,Maryland,25066
+1056,United States of America,Maryland,80918
+17099,Brunei Darussalam,Maryland,72992
+17168,Peru,Maryland,88432
+15914,Kazakhstan,Maryland,59104
+260,Nepal,Maryland,34879
+16543,Aruba,Maryland,35153
+26,Nicaragua,Maryland,36342
+19129,Sri Lanka,Maryland,88437
+4125,Mayotte,Maryland,85232
+142,Turkmenistan,Maryland,95376
+16836,Guernsey,Michigan,64925
+396,Serbia,Michigan,52876
+333,Bangladesh,Michigan,70893
+116,Belgium,Michigan,30055
+421,Palestinian Territory,Michigan,75131
+16876,Albania,Michigan,60445
+202,Heard Island and McDonald Islands,Missouri,96755
+16354,Hong Kong,Missouri,44006
+112,Sierra Leone,Missouri,35045
+16693,Congo,Missouri,81399
+3526,Kazakhstan,Missouri,96532
+4130,Albania,Missouri,58201
+17103,Andorra,Nebraska,42529
+129,Chad,Nebraska,97195
+88,Malaysia,Nebraska,03384
+16875,Barbados,Nebraska,80215
+16926,Spain,Nebraska,09594
+237,Guinea-Bissau,Nebraska,88644
+1093,Guinea,New York,26642
+17036,Panama,New York,14073
+1269,Saint Lucia,New York,08124
+19258,Belarus,New York,59691
+16993,American Samoa,Oklahoma,62016
+17045,Peru,Oklahoma,54634
+15656,Paraguay,Oklahoma,87747
+104,Norway,Oklahoma,41074
+411,Hungary,Oklahoma,80834
+54,French Polynesia,Oklahoma,85810
+16965,Malaysia,Oklahoma,26119
+19038,Niue,Oklahoma,10786
+346,Ireland,Virginia,52757
+29,Madagascar,Virginia,12015
+77,Lithuania,Virginia,40524
+16298,Senegal,Virginia,40811
+17212,Eritrea,Virginia,63285
+238,Mauritius,Virginia,92280
+87,Monaco,Virginia,83304
+15757,Samoa,Virginia,59440
+3778,Haiti,Virginia,39024
+16419,Zimbabwe,Virginia,36131
+930,Kyrgyz Republic,Virginia,32570
+296,Norfolk Island,Virginia,96058
+1057,Cayman Islands,Virginia,20732
+28,Trinidad and Tobago,Virginia,22464
+312,Christmas Island,Louisiana,90672
+3561,Botswana,Louisiana,28211
+170,Ecuador,Louisiana,93177
+17194,Papua New Guinea,Louisiana,05131
+16928,Argentina,Louisiana,09250
+232,Afghanistan,Minnesota,62949
+17106,Czech Republic,Minnesota,98403
+16830,Gambia,Minnesota,05276
+18487,Senegal,Minnesota,51030
+17206,Congo,Tennessee,14739
+58,Nauru,Tennessee,50205
+187,Solomon Islands,Tennessee,23377
+18894,Wallis and Futuna,Tennessee,85631
+16973,Sudan,Tennessee,68973
+4294,Brunei Darussalam,Tennessee,49673
+17027,Montenegro,Tennessee,03626
+17095,Ukraine,Wisconsin,54100
+3754,Dominica,Wisconsin,51720
+1326,Gambia,Wisconsin,61400
+3651,Uzbekistan,Wisconsin,63426
+16862,Barbados,Wisconsin,83854
+334,Georgia,Wisconsin,35595
+16758,Guinea-Bissau,Wisconsin,43144
+2517,Norfolk Island,Wisconsin,18445
+17376,Bulgaria,Wisconsin,45050
+78,Palestinian Territory,California,92481
+397,Hong Kong,California,39251
+92,Saint Kitts and Nevis,California,79071
+354,Netherlands,California,97781
+2516,Taiwan,California,96234
+3,Palestinian Territory,California,04695
+17097,Egypt,California,73406
+16296,Serbia,California,85933
+17100,Heard Island and McDonald Islands,California,63191
+71,Japan,California,24703
+186,American Samoa,California,62645
+416,Nicaragua,California,54693
+175,Paraguay,California,96317
+17038,Guam,New Jersey,12798
+424,Iran,New Jersey,61566
+55,Saint Kitts and Nevis,New Jersey,39778
+17098,Indonesia,New Jersey,69178
+169,Guyana,New Jersey,03150
+242,Sweden,New Jersey,10730
+3783,Sri Lanka,New Jersey,42038
+181,Sierra Leone,New Jersey,88687
+17040,Cameroon,New Jersey,98376
+15913,Congo,New Mexico,54327
+1081,Saint Helena,New Mexico,84610
+100,Peru,New Mexico,31156
+16854,Algeria,New Mexico,58942
+16949,Cape Verde,New Mexico,02179
+323,San Marino,New Mexico,80996
+14577,Gibraltar,Washington,50118
+16480,Belgium,Washington,89351
+229,Zimbabwe,Washington,01880
+16989,Oman,Washington,33762
+17127,Togo,Washington,17687
+17101,Cyprus,Washington,52619
+17175,Croatia,Washington,40656
+16534,Guam,Washington,38575
+16244,Austria,Washington,99452
+173,Angola,Connecticut,39564
+245,Sudan,Connecticut,73065
+141,Egypt,Connecticut,38974
+1286,Angola,Connecticut,29944
+18979,Luxembourg,Connecticut,33271
+3576,Tonga,Connecticut,11915
+17092,Macedonia,Connecticut,55302
+249,Qatar,Connecticut,43251
+18786,Western Sahara,Connecticut,78818
+3809,Netherlands,Connecticut,04226
+16273,Mauritania,Connecticut,45108
+39,Falkland Islands (Malvinas),Connecticut,17555
+16950,Somalia,Connecticut,09962
+57,Falkland Islands (Malvinas),Connecticut,43613
+15630,Saint Pierre and Miquelon,Connecticut,98851
+17126,Argentina,Connecticut,65689
+16939,Nauru,Connecticut,64889
+16545,Brazil,Connecticut,86008
+253,Iraq,Mississippi,47694
+106,Cook Islands,Mississippi,03517
+15695,Morocco,Mississippi,09289
+15823,Saint Vincent and the Grenadines,Mississippi,35665
+18674,Ghana,Mississippi,39073
+63,Turkey,Mississippi,16550
+110,Egypt,Mississippi,75474
+172,Albania,Mississippi,79573
+299,Iceland,Mississippi,62297
+52,Madagascar,Mississippi,86382
+4184,Bulgaria,North Dakota,32211
+363,Chile,North Dakota,75962
+228,Mali,North Dakota,99604
+17030,Congo,North Dakota,04873
+17151,Mayotte,North Dakota,51083
+4132,Pakistan,North Dakota,03914
+256,Ecuador,North Dakota,63814
+289,Peru,North Dakota,88724
+90,Belgium,North Dakota,56979
+17919,Guinea-Bissau,North Dakota,65205
+24,Jordan,North Dakota,83144
+969,Slovakia (Slovak Republic),North Dakota,07003
+250,Equatorial Guinea,North Dakota,98237
+17922,Nauru,North Dakota,30442
+17454,Angola,North Dakota,27079
+16659,Guinea,Pennsylvania,73290
+18155,French Guiana,Pennsylvania,73184
+4186,Nauru,Pennsylvania,64249
+1020,Sweden,Pennsylvania,09484
+1216,Peru,Pennsylvania,33080
+3810,Italy,Pennsylvania,92968
+1076,Georgia,Pennsylvania,83953
+317,Northern Mariana Islands,Pennsylvania,95950
+3668,Cook Islands,Pennsylvania,40529
+18635,Saint Kitts and Nevis,Pennsylvania,38852
+16615,Heard Island and McDonald Islands,Pennsylvania,18499
+189,Macedonia,Rhode Island,83386
+282,Greenland,Rhode Island,09654
+185,Djibouti,Rhode Island,61566
+16874,Lao People's Democratic Republic,Rhode Island,94464
+107,Eritrea,Rhode Island,24197
+425,Netherlands Antilles,Rhode Island,24513
+16284,Aruba,Rhode Island,35272
+3808,Spain,South Dakota,91026
+16226,Haiti,South Dakota,44036
+19122,Venezuela,South Dakota,62999
+17104,Nauru,South Dakota,81861
+3744,Bulgaria,South Dakota,12263
+1278,Puerto Rico,South Dakota,53691
+18741,Kiribati,Massachusetts,97054
+19048,Nigeria,Massachusetts,62140
+16433,Armenia,Massachusetts,32503
+3674,Saint Helena,Massachusetts,58051
+25,Philippines,Massachusetts,08366
+3652,Denmark,New Hampshire,01318
+339,Cape Verde,New Hampshire,90841
+313,Cote d'Ivoire,New Hampshire,91886
+18798,Mauritania,New Hampshire,64337
+17232,Iran,West Virginia,84228
+17455,Armenia,West Virginia,29175
+128,Germany,West Virginia,68414
+2515,Iran,West Virginia,78735
+16771,United States Virgin Islands,West Virginia,67944
+18793,Anguilla,West Virginia,08106
+2518,Chile,West Virginia,36783
+2,Nepal,West Virginia,07072
+179,Libyan Arab Jamahiriya,North Carolina,57245
+315,Gambia,North Carolina,22812
+255,Uruguay,North Carolina,14219
+16925,Dominica,North Carolina,92367
+16759,Kenya,North Carolina,41569
+1098,Finland,South Carolina,67592
+15541,Sweden,South Carolina,20077
+41,Svalbard & Jan Mayen Islands,South Carolina,32424
+113,Honduras,South Carolina,01771
+3732,Western Sahara,South Carolina,71469
+4050,Kenya,South Carolina,86179
+180,Netherlands Antilles,South Carolina,41720
+3811,Macao,South Carolina,86060
+85,Romania,South Carolina,69061
+16975,India,South Carolina,10793
+18907,Faroe Islands,South Carolina,49187
+269,Barbados,South Carolina,51662
+16668,Saudi Arabia,South Carolina,79570
+3531,Aruba,South Carolina,61607
+16935,Norfolk Island,South Carolina,65195
+259,Greenland,South Carolina,62498
+279,Wallis and Futuna,South Carolina,10452
+15644,British Virgin Islands,South Carolina,27961
