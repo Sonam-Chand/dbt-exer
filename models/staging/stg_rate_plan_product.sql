@@ -1,6 +1,6 @@
 with source as (
 
-    select * from {{ source('dbt_schand', 'rate_plan_product') }}
+    select * from {{ source('sana-sandbox-356306', 'rate_plan_product') }}
 
 ),
 

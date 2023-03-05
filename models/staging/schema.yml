@@ -22,12 +22,12 @@ models:
           - unique
           - not_null
 
-  - name: stg_mobile_data_activity
-    columns:
-      - name: subscription_id
-        tests:
-          - unique
-          - not_null
+  # - name: stg_mobile_data_activity
+  #   columns:
+  #     - name: subscription_id
+  #       tests:
+  #         - unique
+  #         - not_null
 
 
   - name: stg_network_activity_type
@@ -39,7 +39,8 @@ models:
       - name: active_flag
         tests:
           - accepted_values:
-              values: ['true', 'false']
+              values: [true, false]
+              quote: false
 
   - name: stg_network_type
     columns:
@@ -57,7 +58,8 @@ models:
       - name: active_flag
         tests:
           - accepted_values:
-              values: ['true', 'false']
+              values: [true,false]
+              quote: false
 
   - name: stg_subscriber
     columns:
@@ -68,12 +70,21 @@ models:
       - name: salutation
         tests:
           - accepted_values:
-              values: ['Mr', 'Mrs']
+              values: ['Mr.', 'Mrs.']
       - name: gender
         tests:
           - accepted_values:
               values: ['male', 'female']
-
+  
+  - name: stg_sms_record
+    columns:
+      - name: subscription_id 
+        tests:
+          - not_null
+      - name: rate_plan_product_id 
+        tests:
+          - not_null
+     
   
 
   

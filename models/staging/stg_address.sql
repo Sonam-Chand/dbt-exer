@@ -1,5 +1,5 @@
 with source as (
-    select * from {{ source('dbt_schand', 'address') }}
+    select * from {{ source('sana-sandbox-356306', 'address') }}
 
 ),
 
