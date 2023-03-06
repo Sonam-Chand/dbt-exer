@@ -22,12 +22,7 @@ models:
           - unique
           - not_null
 
-  # - name: stg_mobile_data_activity
-  #   columns:
-  #     - name: subscription_id
-  #       tests:
-  #         - unique
-  #         - not_null
+  
 
 
   - name: stg_network_activity_type
