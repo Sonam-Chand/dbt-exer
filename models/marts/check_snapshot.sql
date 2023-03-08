@@ -1,1 +1,1 @@
-select * from {{ ref('sms_record_snapshot') }}
+select * from {{ ref('unique_sms_record_snapshot') }}

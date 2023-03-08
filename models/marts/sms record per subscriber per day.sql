@@ -1,3 +1,4 @@
+
 with sms_record as (
 
     select subscription_id,start_of_charge_dt, count(*) as total_sms 
@@ -7,4 +8,5 @@ with sms_record as (
 )
 
 select * from sms_record
+             
              

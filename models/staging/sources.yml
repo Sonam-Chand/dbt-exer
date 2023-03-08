@@ -7,7 +7,7 @@ sources:
       - name: address
       - name: rate_plan_product
       - name: sms_record
-      - name: small_sms_record
+      - name: unique_sms_record
         freshness:
           warn_after: {count: 12, period: hour}
           error_after: {count: 24, period: hour}
