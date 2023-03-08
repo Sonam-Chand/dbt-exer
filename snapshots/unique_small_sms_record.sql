@@ -1,4 +1,5 @@
-{ % snapshot unique_sms_record_snapshot % } 
+
+{% snapshot unique_sms_record_snapshot %} 
 
 
 {{
@@ -13,7 +14,8 @@
 }}
 
 select *
-from {{ source ('sana-sandbox-356306', 'unique_sms_record') }}
+from {{ source
+('sana-sandbox-356306', 'unique_sms_record') }}
 
 
 
