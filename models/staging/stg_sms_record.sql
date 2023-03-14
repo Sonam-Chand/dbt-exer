@@ -16,8 +16,8 @@ renamed as (
         start_of_charge_dt,
         start_of_charge_tm,
         final_charge,
-        main_balance_before,
-        main_balance_after,
+        {{ precison_change('main_balance_before') }} as main_balance_before,
+        {{ precison_change('main_balance_after') }} as main_balance_after,
         network_id
 
 
