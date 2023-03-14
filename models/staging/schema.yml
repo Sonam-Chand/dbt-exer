@@ -22,9 +22,6 @@ models:
           - unique
           - not_null
 
-  
-
-
   - name: stg_network_activity_type
     columns:
       - name: network_activity_type_code
@@ -72,6 +69,7 @@ models:
               values: ['male', 'female']
   
   - name: stg_sms_record
+
     columns:
       - name: subscription_id 
         tests:
@@ -79,6 +77,11 @@ models:
       - name: rate_plan_product_id 
         tests:
           - not_null
+
+  - name: stg_unique_sms_record
+    tests:
+      - dbt_utils.fewer_rows_than:
+          compare_model: ref('stg_sms_record')       
      
   
 
